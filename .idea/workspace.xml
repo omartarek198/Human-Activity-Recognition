@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="876ec673-363e-4d3a-b54f-66654e1806e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LECpAd8ZyEqeXrCA2RA2BT92ca" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects" />
+  </component>
+  <component name="RunManager" selected="Python.Window_Feature_extraction">
+    <configuration name="Window_Feature_extraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="training_models" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Window_Feature_extraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="knn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="training_models" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Window_Feature_extraction" />
+        <item itemvalue="Python.knn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="876ec673-363e-4d3a-b54f-66654e1806e2" name="Default Changelist" comment="" />
+      <created>1675427035243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675427035243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="213" y="0" key="#Window_Feature_extraction" timestamp="1675545570939">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state x="213" y="0" key="#Window_Feature_extraction/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675545570939" />
+    <state x="213" y="0" key="#knn" timestamp="1675427202585">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state x="213" y="0" key="#knn/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675427202585" />
+    <state width="961" height="144" key="GridCell.Tab.0.bottom" timestamp="1675560498328">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state width="961" height="144" key="GridCell.Tab.0.bottom/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675560498328" />
+    <state width="961" height="144" key="GridCell.Tab.0.center" timestamp="1675560498328">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state width="961" height="144" key="GridCell.Tab.0.center/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675560498328" />
+    <state width="961" height="144" key="GridCell.Tab.0.left" timestamp="1675560498328">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state width="961" height="144" key="GridCell.Tab.0.left/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675560498328" />
+    <state width="961" height="144" key="GridCell.Tab.0.right" timestamp="1675560498328">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state width="961" height="144" key="GridCell.Tab.0.right/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675560498328" />
+    <state width="961" height="180" key="GridCell.Tab.1.bottom" timestamp="1675430432390">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state width="961" height="180" key="GridCell.Tab.1.bottom/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675430432390" />
+    <state width="961" height="180" key="GridCell.Tab.1.center" timestamp="1675430432390">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state width="961" height="180" key="GridCell.Tab.1.center/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675430432389" />
+    <state width="961" height="180" key="GridCell.Tab.1.left" timestamp="1675430432389">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state width="961" height="180" key="GridCell.Tab.1.left/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675430432389" />
+    <state width="961" height="180" key="GridCell.Tab.1.right" timestamp="1675430432390">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state width="961" height="180" key="GridCell.Tab.1.right/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675430432390" />
+    <state x="177" y="125" key="com.intellij.ide.util.TipDialog" timestamp="1675427039047">
+      <screen x="0" y="0" width="960" height="600" />
+    </state>
+    <state x="177" y="125" key="com.intellij.ide.util.TipDialog/-1920.-183.1280.720/0.0.960.600@0.0.960.600" timestamp="1675427039047" />
+  </component>
+</project>
