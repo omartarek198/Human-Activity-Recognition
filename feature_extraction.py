@@ -39,7 +39,7 @@ class TemporalFeatures:
         return np.median(data)
 
     def mode_feature(self, data):
-        return scipy.stats.mode(data)[0][0]
+        return scipy.stats.mode(data,keepdims = True)[0][0]
 
     def percentile_feature(self, data, percentile):
         return np.percentile(data, percentile)
